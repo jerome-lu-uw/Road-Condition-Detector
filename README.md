@@ -1,4 +1,4 @@
-#Canny Edge Detection Implementation#
+Canny Edge Detection Implementation
 
 Developed a robust Canny edge detection algorithm in MATLAB.
 Achieved high efficiency with a processing speed of X milliseconds on average, enhancing real-time applicability.
